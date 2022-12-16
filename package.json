@@ -1,0 +1,15 @@
+{
+  "name": "projeto-individual",
+  "version": "1.0.0",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Lucas Lopes",
+  "license": "ISC"
+}
